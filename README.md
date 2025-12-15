@@ -40,7 +40,7 @@ O modelo final (Random Forest) foi otimizado para maximizar o **Recall** da clas
 ├── streamlit_app/     # Código da aplicação Web
 │   └── app.py
 ├── requirements.txt   # Dependências do projeto
-
+```
 
 ## 🚀 Como Executar o projeto
 ### 1. Clone o repositório
