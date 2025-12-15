@@ -41,26 +41,28 @@ O modelo final (Random Forest) foi otimizado para maximizar o **Recall** da clas
 │   └── app.py
 ├── requirements.txt   # Dependências do projeto
 └── README.md
+````
+
 
 ## 🚀 Como Executar o projeto
 ### 1. Clone o repositório
-```bash
+
+
 git clone [https://github.com/SEU-USUARIO/churn-prediction.git](https://github.com/SEU-USUARIO/churn-prediction.git)
+
 cd churn-prediction
 ### 2. Instale as dependências
-Recomenda-se usar um ambiente virtual (venv)
+Recomenda-se usar um ambiente virtual (venv):
+
 pip install -r requirements.txt
 ### 3. Execute o app
 Para abrir a interface de previsão no seu navegador:
 streamlit run streamlit_app/app.py
 
-##🧪 Exemplo de Uso do App
+## 🧪 Exemplo de Uso do App
 No painel lateral, insira os dados do cliente:
-
-    Tenure: 2 meses
-
-    Mensalidade: $90.00
-
-    Contrato: Month-to-month
+* Tenure: 2 meses
+* Mensalidade: $90.00
+* Contrato: Month-to-month
 
 Resultado Esperado: O sistema exibirá um alerta de "Alto Risco de Churn" com a probabilidade calculada.
