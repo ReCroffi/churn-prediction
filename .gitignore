@@ -1,1 +1,18 @@
-venv
+# Ignorar arquivos de dados (geralmente são pesados ou sigilosos)
+data/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar configurações da IDE (VS Code, Pycharm)
+.vscode/
+.idea/
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.env
+
+# Ignorar arquivos do Jupyter
+.ipynb_checkpoints

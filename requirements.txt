@@ -1,0 +1,23 @@
+# Manipulação e Processamento de Dados
+pandas
+numpy
+
+# Visualização de Dados (EDA)
+matplotlib
+seaborn
+
+# Machine Learning e Métricas
+scikit-learn
+joblib              # Para salvar e carregar o modelo treinado (.pkl)
+
+# Tratamento de Dados Desbalanceados (Essencial para Churn)
+imbalanced-learn    # Contém o SMOTE
+
+# Interpretabilidade do Modelo (O diferencial "Júnior+")
+shap
+
+# Dashboard / Web App
+streamlit
+
+# Ambiente de Desenvolvimento (Notebooks)
+jupyter
