@@ -40,19 +40,12 @@ O modelo final (Random Forest) foi otimizado para maximizar o **Recall** da clas
 ├── streamlit_app/     # Código da aplicação Web
 │   └── app.py
 ├── requirements.txt   # Dependências do projeto
-└── README.md
-````
 
 
 ## 🚀 Como Executar o projeto
 ### 1. Clone o repositório
 
-
-git clone [https://github.com/SEU-USUARIO/churn-prediction.git](https://github.com/SEU-USUARIO/churn-prediction.git)
-
-cd churn-prediction
 ### 2. Instale as dependências
-Recomenda-se usar um ambiente virtual (venv):
 
 pip install -r requirements.txt
 ### 3. Execute o app
