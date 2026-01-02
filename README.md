@@ -44,7 +44,9 @@ O modelo final (Random Forest) foi otimizado para maximizar o **Recall** da clas
 
 ## 🚀 Como Executar o projeto
 ### 1. Clone o repositório
-
+```bash
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+```
 ### 2. Instale as dependências
 
 pip install -r requirements.txt
